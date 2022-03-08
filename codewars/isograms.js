@@ -32,8 +32,7 @@
 } */
 
 function isIsogram(str) {
-  const unique = new Set(str.toLowerCase());
-  return unique.size == str.length;
+  return new Set(str.toLowerCase()).size === str.length;
 }
 
 console.log(isIsogram("Dermatoglyphics")); // true);
