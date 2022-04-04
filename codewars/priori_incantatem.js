@@ -1,7 +1,7 @@
 // https://www.codewars.com/kata/574d0b01b4b769b207000ca3
 
-/* it's not my solution
-don't now how it works */
+/* it's not my solution,
+and I don't know how it works */
 
 MAX_PRIOR_SPELLS = 13;
 
