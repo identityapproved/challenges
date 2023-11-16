@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1697463149868" clover="3.2.0">
-  <project timestamp="1697463149869" name="All files">
-    <metrics statements="42" coveredstatements="3" conditionals="8" coveredconditionals="0" methods="11" coveredmethods="2" elements="61" coveredelements="5" complexity="0" loc="42" ncloc="42" packages="2" files="6" classes="6"/>
+<coverage generated="1698677784918" clover="3.2.0">
+  <project timestamp="1698677784918" name="All files">
+    <metrics statements="41" coveredstatements="2" conditionals="8" coveredconditionals="0" methods="11" coveredmethods="2" elements="60" coveredelements="4" complexity="0" loc="41" ncloc="41" packages="2" files="6" classes="6"/>
     <package name="codewars">
-      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
       <file name="squaresum.ts" path="/home/id.app/Repos/github/challenges/typescript/src/codewars/squaresum.ts">
-        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
         <line num="1" count="1" type="stmt"/>
-        <line num="2" count="8" type="stmt"/>
-        <line num="5" count="1" type="stmt"/>
+        <line num="2" count="6" type="stmt"/>
       </file>
     </package>
     <package name="leetcode">

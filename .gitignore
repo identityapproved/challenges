@@ -1,3 +1,5 @@
 # Node artifact files
 node_modules/
 dist/
+**/package-lock.json
+typescript/coverage
